@@ -1,6 +1,7 @@
 # dyte-vit-2022-aditya-kalra28
 
-#Running the Application
+# Running the Application
+
 ```
 git clone https://github.com/dyte-submissions/dyte-vit-2022-aditya-kalra28.git
 cd dyte-vit-2022-aditya-kalra28
