@@ -1,11 +1,23 @@
 # SDK Tooling Challenge ( Aditya Kalra 19BCE0390)
 
-## Running the Application
+## Setting Up the Environment
 
 ```
 git clone https://github.com/dyte-submissions/dyte-vit-2022-aditya-kalra28.git
 cd dyte-vit-2022-aditya-kalra28
 pip install -r requirements.txt
+```
+
+## Create .env file inside the folder
+
+```
+USER_NAME = <YOUR_GITHUB_USERNAME>
+KEY = <GITHUB_KEY>
+```
+
+## Running the Application
+
+```
 python .\dyte.py index.csv axios@0.23.0
 ```
 
