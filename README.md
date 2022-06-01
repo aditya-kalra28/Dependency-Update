@@ -19,12 +19,14 @@ python .\dyte.py index.csv axios@0.23.0 -update
 
 ### Checking the Version
 
-![alt text](https://ibb.co/YQXqcct)
+![2](https://user-images.githubusercontent.com/58948739/171419778-b88b7e1f-9c6c-4b72-8561-9d4f774ace62.PNG)
 
-![alt text](https://ibb.co/d28GfCY)
+![1](https://user-images.githubusercontent.com/58948739/171419703-07b7926d-05f0-499f-a293-3bde556e48dd.PNG)
+
 
 ### Updating 
 
-![alt text](https://ibb.co/cyckpkG)
+![3](https://user-images.githubusercontent.com/58948739/171419822-cb5b773b-1643-424b-a155-6f5ea5934753.PNG)
 
-![alt text](https://ibb.co/v4F41JK)
+![4](https://user-images.githubusercontent.com/58948739/171419845-28624838-4758-47ef-8e24-a60e9ca923e8.PNG)
+
