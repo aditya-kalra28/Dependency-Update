@@ -189,10 +189,12 @@ for i in range(len(name)):
             link = parsed.select_one(".Box-row a").get('href')
             update_pr.append("https://github.com" + link)
         else:
-            update_pr.append('')
+            update_pr.append(" ")
     else:
         versions.append("Module not used in application.")
         version_satisfied.append("-")
+        update_pr.append(" ")
+        print("Module not used in application.")
 df["version"] = versions
 df["version_satisfied"] = version_satisfied
 df["update_pr"] = update_pr
