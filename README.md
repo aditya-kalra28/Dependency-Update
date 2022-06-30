@@ -3,8 +3,8 @@
 ## Setting Up the Environment
 
 ```
-git clone https://github.com/dyte-submissions/dyte-vit-2022-aditya-kalra28.git
-cd dyte-vit-2022-aditya-kalra28
+git clone https://github.com/aditya-kalra28/Dependency-Update.git
+cd Dependency-Update
 pip install -r requirements.txt
 ```
 
