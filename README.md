@@ -1,6 +1,6 @@
 # Dependency Update
 
-A lot of our applications are written in Node.js. This CLI application makes sure that the dependencies for these applications are up to date.
+A lot of applications are written in Node.js. This CLI application makes sure that the dependencies for these applications are up to date.
 Given a csv file containing repo link of Node.js applications, this application will check if the version of a dependency is up-to-date or not (w.r.t to the argument passed). By using ```-update``` argument, this application can also create a pull request if the version is not satisfied. Examples are shown below.
 
 
